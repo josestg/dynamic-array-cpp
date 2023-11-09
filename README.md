@@ -6,7 +6,7 @@ Sedikit berbeda dengan _array_, konsep penambahan elemen di Array Dinamis mirip 
 
 Pada implementasinya, untuk mendapatkan ukuran _array_ yang dinamis dilakukan dengan cara membuat _array_ baru berukuran __dua kali__ ukuran _array_ semula jika pada operasi _push_ berikutnya tidak ada ruang kosong lagi di _array_ semula.
 
-<a href="https://github.com/josestg/dynamic-array-cpp/asd.pdf">Lihat analisis disini!</a>
+<a href="https://github.com/josestg/dynamic-array-cpp/blob/master/asd.pdf">Lihat analisis disini!</a>
 
 
 
